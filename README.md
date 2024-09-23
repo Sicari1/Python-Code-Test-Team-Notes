@@ -9,9 +9,9 @@
 ### Basics
 * [readline](/basics/readline.py)
 * [print](/basics/print.py)
-* [Standard libraries](/basics/Standard libraries.py)
+* [Standard libraries](/basics/Standard%20libraries.py)
 * [Counter](/basics/Counter.py)
-* [Permutation & Combination](/basics/Permutation & Combination.py)
+* [Permutation & Combination](/basics/Permutation%20&%20Combination.py)
 
 
 
