@@ -6,6 +6,9 @@
 
 ## Contents
 
+### Basics
+* [Counter](/Basics/Counter.py)
+
 ### Sorting
 
 * [Selection Sort](/Sorting/)
