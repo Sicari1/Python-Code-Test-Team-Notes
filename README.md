@@ -12,7 +12,7 @@
 * [Standard libraries](/basics/Standard%20libraries.py)
 * [Counter](/basics/Counter.py)
 * [Permutation & Combination](/basics/Permutation%20&%20Combination.py)
-
+* [GCD&LCM](/basics/GCD&LCM.py)
 
 
 
