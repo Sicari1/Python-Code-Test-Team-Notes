@@ -1,11 +1,4 @@
-/sorting-algorithms
-    ├── README.md
-    ├── bubble_sort.py
-    ├── selection_sort.py
-    ├── insertion_sort.py
-    ├── quick_sort.py
-    ├── merge_sort.py
-    ├── heap_sort.py
+
     
 # 정렬 알고리즘 모음
 
