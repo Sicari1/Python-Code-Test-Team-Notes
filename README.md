@@ -26,9 +26,10 @@
 * [Heap Sort](/Sorting/heap_sort.py)
 
 ### Searching
-
+* [DFS](/Searching/DFS.py)
 
 ### Graph
+
 
 * [Dijkstra Shortest Path]
 * [Minimum Spanning Tree (MST)]
