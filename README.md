@@ -16,13 +16,14 @@
 
 
 
-### Sorting
-
-* [Selection Sort](/Sorting/)
-* [Insertion Sort](/Sorting/)
-* [Quick Sort](/Sorting/)
-* [Counting Sort](/Sorting/)
-* [Python Sort Library](/Sorting/)
+### Sorting 
+* [Sorting](/Sorting/README.md)
+* [Bubble Sort](/Sorting/bubble_sort.py)
+* [Selection Sort](/Sorting/selection_sort.py)
+* [Insertion Sort](/Sorting/insertion_sort.py)
+* [Quick Sort](/Sorting/quick_sort.py)
+* [Merge Sort](/Sorting/merge_sort.py)
+* [Heap Sort](/Sorting/heap_sort.py)
 
 ### Searching
 
