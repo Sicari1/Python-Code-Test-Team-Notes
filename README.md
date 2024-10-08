@@ -28,10 +28,8 @@
 ### Searching
 * [DFS](/Searching/DFS.py)
 * [BFS](/Searching/BFS.py)
-* [음료수 얼려먹기](/음료수\얼려먹기\(DFS\).py)
-* [미로 탈출 (BFS)](/Searching/미로\탈출(BFS).py)
-
-Searching/미로 탈출(BFS).py
+* [음료수 얼려먹기(DFS)](/Searching/음료수_얼려먹기(DFS).py)
+* [미로 탈출(BFS)](/Searching/미로_탈출(BFS).py)
   
 ### Graph
 
