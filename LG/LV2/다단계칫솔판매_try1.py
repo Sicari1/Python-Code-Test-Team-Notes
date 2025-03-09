@@ -25,3 +25,7 @@ def solution(enroll, referral, seller, amount):
         answer.append(value)
         
     return answer
+
+
+    import sys
+    sys.setrecursionlimit(10**6) # python에서 기본 recursion깊이가 1000으로 제한되어있는데, 이를 늘리면 런타임 에러가 발생하지 않을 경우도 있음.
