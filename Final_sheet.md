@@ -15,3 +15,9 @@ zip()
 sort()
 lambda
 dictionary에서 자주 쓰는 표현
+
+
+# 필요한 문제
+
+## 피로도
+
